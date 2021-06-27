@@ -1,4 +1,4 @@
-# Real-to-Minecraft-Time-
+# Real-to-Minecraft-Time
 The time in Minecraft is correlated to the time in the real world 
 
 ## setup
